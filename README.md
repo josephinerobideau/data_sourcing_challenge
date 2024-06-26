@@ -4,15 +4,15 @@
 ## Overview and agenda for data retrieval
 1. Import dependencies and set up environment variables
   - requests
-      - used for importing API
+      - Used for importing API
   - time
-      - used for sleep time between API requests to stay within the request limit
+      - Used for sleep time between API requests to stay within the request limit
   - load_dotenv from dotenv
-      - used to load variables to the environment
+      - Used to load variables to the environment
   - os
       - Imported to use the operating system for getting the environment and API
   - pandas
-    - For all data related tasks (ex. manipulation)
+    - Used for all data related tasks (ex. data manipulation)
   - json
       - Used for correct formatting of the API data
   - Environment variables
