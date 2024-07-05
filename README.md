@@ -1,4 +1,4 @@
-# Challange 6 - Retrieving movie data with NY Times and TMDB API
+# Challenge 6 - Retrieving movie data with NY Times and TMDB API
 -----
 
 ## Overview and agenda for data retrieval
